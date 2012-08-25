@@ -11,6 +11,6 @@
   <description>Triple Evo</description>
   <author href="http://www.skyname.net" email="info@skyname.net">Sky Online</author>
   <preference name="orientation" value="portrait" />
-  <gap:splash src="splash.png" />
+  <gap:splash src="splash.jpg" />
   <icon src="icon.png" />
 </widget>
