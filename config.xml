@@ -11,6 +11,9 @@
   <description>Triple Evo</description>
   <author href="http://www.skyname.net" email="info@skyname.net">Sky Online</author>
   <preference name="orientation" value="portrait" />
+  <access origin="http://evo.sib.by" subdomains="true" /> 
+  <preference name="stay-in-webview" value="true" /> 
+  <preference name="ios-statusbarstyle" value="black-opaque" />
   <gap:splash src="splash.png" />
   <icon src="icon.png" />
 </widget>
